@@ -3,7 +3,7 @@ def my_each (words)
     words.each do |word|
      puts word 
      words -= 1
-    yield words
   end
+  yield wrods
 end
 end
