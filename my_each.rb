@@ -4,6 +4,6 @@ def my_each (words)
      print word
      words -= 1
   end
-  yield wrods
+  yield wrod
 end
 end
